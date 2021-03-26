@@ -1,0 +1,2 @@
+# Buffer-pH-calculator
+This repository is for storage of a program made in python and for the updates of it. This program will calculate the potential of hydrogen (pH) of a buffer solution, that is, a solution made from an weak acid and its salt, or an weak base and its salt, with the aim of evoid that pH varie. It's worth mentioning that this is a project of python beginner, so it may contain mistakes, and any constructive critice is welcome.
