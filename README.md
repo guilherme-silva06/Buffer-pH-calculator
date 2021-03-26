@@ -6,5 +6,4 @@ In order to the calculator work correctly, is important to understand how to use
 To indicate that a number is being multiplied by ten and raised by the power of some number, you have to do in a different way from the traditional.
        
 Examples:
-(2.3 * 10^-5) it will look like this: (2.3e-5)
-(1.5 * 10^2) it will look like this: (1.5e2)
+(2.3 * 10^-5) it will look like this (2.3e-5), and (1.5 * 10^2) it will look like this: (1.5e2)
